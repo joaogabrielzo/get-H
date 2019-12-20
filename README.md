@@ -2,7 +2,7 @@
 
 O objetivo do get-H é automatizar a solução fornecida pela *tech tip* abaixo:
 
-![](image/tweet.png)
+![](imagem/tweet.png)
 *"Dica técnica para pessoas que não são experientes como eu:  
 Quando você aperta a tecla h no seu teclado, aparece um h minúsculo. Mas e se você quiser um h maiúsculo? Fácil!  
 É só ir até a página de Horse(cavalo) na Wikipedia, copiar o h maiúsculo e copiar no seu documento. Problema resolvido"*
